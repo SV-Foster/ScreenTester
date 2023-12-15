@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Screen Tester</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="about_app_text">This app helps to check the quality and performance of your phone or tablet screen. With Screen Tester, you can easily detect any irregularities, problems or defects on your screen, like dead pixels, color issues, spots, lines or flickering.\n\nScreener Test is a simple and effective way to test your screen and ensure that it is working properly. You can use it anytime and anywhere, without any internet connection or special equipment.</string>
+    <string name="eula_short">This program is free for personal, educational and/or non-profit usage. Provided \"AS IS\" without warranties as to performance, merchantability, data integrity and other warranties of any kind, either expressed or implied.</string>
+    <string name="about_version">Version</string>
+    <string name="auto_change">Change color automatically, with the timer</string>
+    <string name="timer_value">Time between change:</string>
+    <string name="colorRGB">Reg, Green, Blue</string>
+    <string name="colorCMYK">Cyan, Magenta, Yellow</string>
+    <string name="colorBW">Black, White</string>
+    <string name="autostop_batt_low">Stop and exit when battery is less than 10%</string>
+    <string name="button_about">About</string>
+    <string name="button_start">Go!</string>
+    <string name="mils">%s ms</string>
+    <string name="exitbatterylow">Battery low, exiting</string>
+</resources>
